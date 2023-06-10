@@ -1,0 +1,4 @@
+this is a simple project idea genarator using chatgpt. 
+You need your open ai key from "https://platform.openai.com/account/api-keys"
+The window is made using cistumTkinter and the project also has a button that reads the answer that chatgtp gave to your prompt using pyttsx3.
+You are free to modify the code and make improvement on it as you please.
